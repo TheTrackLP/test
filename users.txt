@@ -1,0 +1,9 @@
+E001,raul,raulthegreat
+E002,john,johnnybravo
+E003,casper,theghost
+E004,jolly,thebee
+E005,macmac,dooh
+E006,crispy,pata
+E007,bingo,lotto
+E008,rico,mambo
+E009,chacha,tango
